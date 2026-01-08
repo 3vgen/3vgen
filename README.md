@@ -27,8 +27,7 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=3мпут)](https://github.com/anuraghazra/github-readme-stats)
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=3vgen&layout=compact&theme=tokyonight&count_private=true&hide_border=true"/>
+  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=3vgen)](https://github.com/anuraghazra/github-readme-stats)
 </p>
 
 ---
