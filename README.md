@@ -25,8 +25,9 @@
 
 ## 📊 GitHub Stats
 
-![3vgen GitHub stats](https://github-readme-stats.vercel.app/api?username=3vgen&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=3vgen&layout=compact&theme=tokyonight)
+![Евгений GitHub Stats](https://github-readme-stats.vercel.app/api?username=3vgen&show_icons=true&theme=radical&count_private=true&cache_seconds=1800)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=3vgen&layout=compact&theme=radical&count_private=true&cache_seconds=1800)
 
 ---
 
