@@ -26,9 +26,17 @@
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=3vgen)](https://github.com/anuraghazra/github-readme-stats)
-</p>
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=3vgen&show_icons=true&theme=dark"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=3vgen&show_icons=true"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=3vgen&show_icons=true" />
+</picture>
 
 ---
 
@@ -36,4 +44,4 @@
 
 | Email | Telegram | GitHub |
 |-------|----------|--------|
-| [evgeniy.zhenia@gmail.com](mailto:evgeniy.zhenia@gmail.com) | [@3vgen](https://t.me/3vgen) | [3vgen](https://github.com/3vgen) |
+| [evgeniy.zhenia@gmail.com](mailto:evgeniy.zhenia@gmail.com) | [@3vgen](https://t.me/evgeniy_qs) | [3vgen](https://github.com/3vgen) |
