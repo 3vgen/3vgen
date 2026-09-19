@@ -1,5 +1,5 @@
 # 3vgen 👾
-Hi! I’m **Evgeniy**, a 2025 Computer Science & Engineering graduate.  
+Hi! I’m **Evgeniy**, a 2026 Computer Science & Engineering graduate.  
 Backend developer building high-performance APIs, real-time systems, and AI-driven applications.  
 Skilled in backend architecture, database optimization, and machine learning integration.
 
